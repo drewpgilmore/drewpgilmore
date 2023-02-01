@@ -1,4 +1,7 @@
-### Hi there 👋
+### I'm Drew, welcome to my GitHub
+
+#### Working on (encinitasdynasty.com)
+#### Currently learning C/C++, Linux
 
 <!--
 **drewpgilmore/drewpgilmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
