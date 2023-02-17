@@ -1,6 +1,6 @@
 ### I'm Drew, welcome to my GitHub
 
-#### Working on [encinitasdynasty.com](http://dynastyscoreboard.com)
+#### Working on [dynastyscoreboard.com](http://dynastyscoreboard.com)
 #### Currently learning C, Linux
 
 <!--
