@@ -1,7 +1,7 @@
 ### I'm Drew, welcome to my GitHub
 
 #### Working on [dynastyscoreboard.com](http://dynastyscoreboard.com)
-#### Currently learning C, Linux
+#### Currently learning Scala, Linux, and C
 
 <!--
 **drewpgilmore/drewpgilmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
